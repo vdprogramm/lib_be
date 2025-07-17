@@ -3,7 +3,7 @@ pipeline {
 
     tools {
         maven 'Maven 3.9.10' // Hoặc tên cấu hình Maven trong Jenkins
-        jdk 'JDK21'         // Tên JDK nếu bạn đã cấu hình
+        jdk 'JDK 21'         // Tên JDK nếu bạn đã cấu hình
     }
 
     stages {
